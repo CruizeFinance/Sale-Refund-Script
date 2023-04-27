@@ -1,0 +1,10 @@
+{
+  "name": "sale-refund-script",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.3.0"
+  }
+}
